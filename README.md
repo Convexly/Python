@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DragonHyper
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @Convexly
+- 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning CSS, JS, HTML (Web Development)
 - 📫 Socials:
 
